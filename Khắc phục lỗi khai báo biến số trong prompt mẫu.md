@@ -20,3 +20,11 @@ Giải thích vì sao cách đặt biến lộn xộn [language] và {audience} 
 Bước 2: Đồng bộ biến số:
 
 Đưa toàn bộ biến về dạng nhất quán [NGÔN_NGỮ], [ĐỐI_TƯỢNG] viết hoa rõ ràng.
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)

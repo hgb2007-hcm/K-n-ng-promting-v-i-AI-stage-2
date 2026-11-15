@@ -32,3 +32,7 @@ Yêu cầu ràng buộc định dạng bắt buộc:
 * **Định lượng độ dài:** Giới hạn *"tối đa 2 câu"* thay vì dùng từ *"ngắn gọn"* (vốn mang tính chủ quan đối với AI).
 * **Ép cấu trúc hiển thị:** Chỉ định rõ *"danh sách gạch đầu dòng"* để dễ sao chép vào tài liệu học tập.
 * **Chặn đứng văn bản thừa:** Dùng từ khóa viết hoa nhấn mạnh (`KHÔNG`) nhắm trực tiếp vào phần mở đầu và phần kết thúc.
+
+![alt text](image.png)
+
+![alt text](image-1.png)
